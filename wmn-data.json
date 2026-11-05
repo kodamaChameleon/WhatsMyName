@@ -6824,7 +6824,7 @@
             "m_string": "",
             "known": [
                 "admin",
-                "admin"
+                "root"
             ],
             "cat": "gaming"
         },
@@ -10446,7 +10446,7 @@
             "m_string": "",
             "known": [
                 "support",
-                "support"
+                "info"
             ],
             "cat": "tech"
         },
